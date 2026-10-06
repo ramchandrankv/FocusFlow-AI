@@ -1,7 +1,7 @@
-# AI-FocusFlow
-🧠 AI FocusFlow – Productivity App
+# FocusFlow AI
+🧠 FocusFlow AI – Productivity App
 
-AI FocusFlow is an AI-powered productivity app that helps users manage tasks, improve focus, and track productivity.
+FocusFlow is an AI-powered productivity app that helps users manage tasks, improve focus, and track productivity.
 
 🚀 Features
 
